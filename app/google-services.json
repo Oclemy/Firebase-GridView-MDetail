@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1055289066838",
+    "firebase_url": "https://gridview-multiitems.firebaseio.com",
+    "project_id": "gridview-multiitems",
+    "storage_bucket": "gridview-multiitems.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055289066838:android:8c49290ec63c07be",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasegridviewmulti_items"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055289066838-1rbpu6tq8csqdv46gink9merd0p9gljt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa19Gge5C55TNSXb-VzSlpj64EOow1Ouk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055289066838:android:507bf85ed9bfd2ee",
+        "android_client_info": {
+          "package_name": "com.tutorials.hp.firebasegridviewmdetail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055289066838-1rbpu6tq8csqdv46gink9merd0p9gljt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa19Gge5C55TNSXb-VzSlpj64EOow1Ouk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
